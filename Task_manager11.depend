@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1662081046 source:d:\maleki\f\ramtin khosravi\ex\task_manager11_0\main.cpp
+	"inc.hpp"
+	"systick.hpp"
+
+1662070444 d:\maleki\f\ramtin khosravi\ex\task_manager11_0\inc.hpp
+	<iostream>
+	<vector>
+	<string>
+
+1662079093 d:\maleki\f\ramtin khosravi\ex\task_manager11_0\systick.hpp
+	"inc.hpp"
+
+1662080982 source:d:\maleki\f\ramtin khosravi\ex\task_manager11_0\systick.cpp
+	"systick.hpp"
+
+1663241060 source:d:\maleki\f\ramtin khosravi\ex\task_manager11_1\main.cpp
+	"inc.hpp"
+	"systick.hpp"
+
+1662070444 d:\maleki\f\ramtin khosravi\ex\task_manager11_1\inc.hpp
+	<iostream>
+	<vector>
+	<string>
+
+1663238937 d:\maleki\f\ramtin khosravi\ex\task_manager11_1\systick.hpp
+	"inc.hpp"
+
+1663241297 source:d:\maleki\f\ramtin khosravi\ex\task_manager11_1\systick.cpp
+	"systick.hpp"
+
